@@ -1,6 +1,6 @@
 ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)
 <h1 align="center">Hi 👋, I'm Bagus Aji Hapsoro</h1>
-<h3 align="center">A passionate frontend and backend website developer from Indonesia</h3>
+<h3 align="center">Fullstack website developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusajih&label=Profile%20views&color=0e75b6&style=flat" alt="bagusajih" /> </p>
