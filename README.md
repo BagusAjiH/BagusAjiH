@@ -1,6 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_400_744/0/1624597705774?e=2147483647&v=beta&t=CUqQ50dArmsbi9pZgeLdAfOFe8FCno8gLnsT8pGUI_w)
-<h1 align="center">Hi 👋, I'm Bagus Aji Hapsoro</h1>
-<h3 align="center">Fullstack website developer from Indonesia</h3>
+![MasterHead](https://camo.githubusercontent.com/2619e5a9ead82dd13149cb33aeae4dd13e9969607c61eac3ac78fa34d6f5a609/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
+<h1 align="center">Hi Guys!👋, I'm Bagus Aji Hapsoro</h1>
+<h3 align="center">Fullstack Website Developer From Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusajih&label=Profile%20views&color=0e75b6&style=flat" alt="bagusajih" /> </p>
