@@ -1,4 +1,4 @@
-![MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_400_744/0/1624597705774?e=2147483647&v=beta&t=CUqQ50dArmsbi9pZgeLdAfOFe8FCno8gLnsT8pGUI_w)
 <h1 align="center">Hi 👋, I'm Bagus Aji Hapsoro</h1>
 <h3 align="center">Fullstack website developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
