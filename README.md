@@ -1,56 +1,42 @@
-# Hi there, I'm Bagus Aji Hapsoro! 👋
-### Fullstack Website Developer From Indonesia 🇮🇩
+# 🏄‍♂️ Bagus Aji Hapsoro
+
+`Fullstack Website Developer`
+
+I'm a passionate fullstack developer from Indonesia, dedicated to building clean and functional web and mobile applications.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bagusajih&label=Profile%20views&color=0e75b6&style=flat-square" />
-  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/bagusajih?label=Follow&style=social" /></a>
+  <img src="https://img.shields.io/badge/FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEWS-FFD700?style=for-the-badge&logo=eye&logoColor=black" />
+  <img src="https://img.shields.io/badge/STARS-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-- 🔭 I’m currently working on **Fullstack Web Projects**
-- 💬 Ask me about **Android & Web Development**
-- 📫 Reach me at: **bagushps949@gmail.com**
-- ⚡ Fun fact: **I'm a funny and hardworking man!**
 
 ---
 
-### 🛠 Languages and Tools
+### 🧳 Languages and Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android" />
-      <br>Android
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bagusajih&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusajih&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bagusajih&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusajih&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagusajih&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagusajih&theme=transparent&hide_border=true&stroke=white&ring=white&fire=white&currStreakLabel=white" />
 </p>
 
 ---
@@ -59,4 +45,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/bagus-aji-hapsoro" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/bagushps" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:bagushps949@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
